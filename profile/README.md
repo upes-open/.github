@@ -31,6 +31,6 @@ The whole concept of Open Source revolves around community which uses it and con
 <br />
 
 ### Visit our website :man_technologist:
-Link : https://github.com/upes-open
+Link : https://upes-open.org/
 
 
