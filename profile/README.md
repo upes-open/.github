@@ -1,9 +1,9 @@
 ## Hi! Welcome to UPES Open Community's Github Repo 👋
 
-### About Us
+### About Us :green_heart:
 OPEN is an initiative started with the aim of contributing to the Open Source community by providing a platform for training, guidance and awareness about various possibilities in the world of software to students and enthusiasts. We are motivated to provide a holistic environment to develop programs that can solve real-world problems while enhancing your communication, teamwork, leadership, ideation and other soft skills.
 
-### Our Core Principles
+### Our Core Principles :rocket:
 #### Aware 
 We aim at spreading awareness about the advantage of using Open Source softwares over conventional proprietary softwares.
 
@@ -14,7 +14,7 @@ Spreading awareness is futile until and unless we motivate people to adopt the p
 The whole concept of Open Source revolves around community which uses it and contributing to the community is always a matter of prestige.
 
 
-### Top Repositories
+### Top Repositories :star2:
 
 
 <a href="https://github.com/upes-open/Auto-Infirmary">
